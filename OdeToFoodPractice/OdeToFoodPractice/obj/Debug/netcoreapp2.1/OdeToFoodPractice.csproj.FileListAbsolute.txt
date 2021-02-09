@@ -33,3 +33,4 @@ C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoo
 C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFoodPractice\obj\Debug\netcoreapp2.1\OdeToFoodPractice.pdb
 C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFoodPractice\obj\Debug\netcoreapp2.1\OdeToFoodPractice.genruntimeconfig.cache
 C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFoodPractice\obj\Debug\netcoreapp2.1\OdeToFoodPractice.csproj.CopyComplete
+C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFoodPractice\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\List.cshtml.g.cs
