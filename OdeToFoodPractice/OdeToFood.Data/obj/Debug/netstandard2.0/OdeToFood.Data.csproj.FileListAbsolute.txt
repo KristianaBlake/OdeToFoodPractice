@@ -2,3 +2,11 @@ C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoo
 C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
 C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
 C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFoodPractice.Core.dll
+C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFoodPractice.Core.pdb
+C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
+C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
