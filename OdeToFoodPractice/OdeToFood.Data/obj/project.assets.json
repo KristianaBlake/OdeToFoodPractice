@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "OdeToFoodPractice.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/OdeToFoodPractice.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OdeToFoodPractice.Core.dll": {}
+        }
       }
     }
   },
@@ -172,11 +182,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "OdeToFoodPractice.Core/1.0.0": {
+      "type": "project",
+      "path": "../OdeToFoodPractice.Core/OdeToFoodPractice.Core.csproj",
+      "msbuildProject": "../OdeToFoodPractice.Core/OdeToFoodPractice.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "OdeToFoodPractice.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -210,7 +226,11 @@
       "frameworks": {
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\KristianaBlake\\Projects\\.NETCoreFundamentals\\OdeToFoodPractice\\OdeToFoodPractice\\OdeToFoodPractice.Core\\OdeToFoodPractice.Core.csproj": {
+              "projectPath": "C:\\Users\\KristianaBlake\\Projects\\.NETCoreFundamentals\\OdeToFoodPractice\\OdeToFoodPractice\\OdeToFoodPractice.Core\\OdeToFoodPractice.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -240,7 +260,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
