@@ -15,7 +15,9 @@ namespace OdeToFoodPractice.Pages.Restaurants
         private readonly IConfiguration config;
         private readonly IRestaurantData restaurantData;
 
+        /* Below is the property the view is going to consume to display the value using @Model.Message */
         public string Message { get; set; }
+        /* Below is the property the view is going to consume to display the value using @Model.Restaurants */
         public IEnumerable<Restaurant> Restaurants { get; set; }
 
 
@@ -28,6 +30,7 @@ namespace OdeToFoodPractice.Pages.Restaurants
         public void OnGet()
         {
             Message = config["Message"];
+            Restaurants = restaurantData.GetAll();
         }
     }
 }
