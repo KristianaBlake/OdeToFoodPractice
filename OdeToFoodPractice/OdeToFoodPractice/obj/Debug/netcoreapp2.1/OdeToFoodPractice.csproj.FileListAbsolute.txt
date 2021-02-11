@@ -38,3 +38,4 @@ C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoo
 C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFoodPractice\bin\Debug\netcoreapp2.1\OdeToFoodPractice.Core.dll
 C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFoodPractice\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFoodPractice\bin\Debug\netcoreapp2.1\OdeToFoodPractice.Core.pdb
+C:\Users\KristianaBlake\Projects\.NETCoreFundamentals\OdeToFoodPractice\OdeToFoodPractice\OdeToFoodPractice\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
