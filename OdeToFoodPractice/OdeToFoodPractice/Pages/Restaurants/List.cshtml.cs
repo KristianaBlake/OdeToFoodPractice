@@ -18,7 +18,10 @@ namespace OdeToFoodPractice.Pages.Restaurants
         /* Below is the property the view is going to consume to display the value using @Model.Message */
         public string Message { get; set; }
         /* Below is the property the view is going to consume to display the value using @Model.Restaurants */
+        /* they are output models - they are here to populate with information */
         public IEnumerable<Restaurant> Restaurants { get; set; }
+        [BindProperty(SupportsGet = true)]
+        public string SearchTerm { get; set; }
 
 
         public ListModel(IConfiguration config, IRestaurantData restaurantData)
@@ -26,10 +29,10 @@ namespace OdeToFoodPractice.Pages.Restaurants
             this.config = config;
             this.restaurantData = restaurantData;
         }
-        public void OnGet(string searchTerm)
+        public void OnGet(string SearchTerm)
         {
             Message = config["Message"];
-            Restaurants = restaurantData.GetRestaurantsByName(searchTerm);
+            Restaurants = restaurantData.GetRestaurantsByName(SearchTerm);
         }
     }
 }
