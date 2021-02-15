@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Wsmo4WPeGeNhAWeYaQdUy6A+S7BJJLaz2OO400MkNa/V7AcwdOj9NvkwjTLbZmZkB8gL/MNeiszPXVjWVNqUuA==",
+  "dgSpecHash": "hGnU5o+yAlFz5d1RA+vx3ltjf45Z2uIZGnasYcgwW5uLy4rKWNmVV/rGhsYHhtvT49P8sLaMIwxkm7j4yAtYPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\KristianaBlake\\Projects\\.NETCoreFundamentals\\OdeToFoodPractice\\OdeToFoodPractice\\OdeToFoodPractice\\OdeToFoodPractice.csproj",
   "expectedPackageFiles": [
@@ -200,7 +200,7 @@
     "C:\\Users\\KristianaBlake\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
     "C:\\Users\\KristianaBlake\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
     "C:\\Users\\KristianaBlake\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
-    "C:\\Users\\KristianaBlake\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\KristianaBlake\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\KristianaBlake\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\KristianaBlake\\.nuget\\packages\\system.data.sqlclient\\4.5.1\\system.data.sqlclient.4.5.1.nupkg.sha512",
     "C:\\Users\\KristianaBlake\\.nuget\\packages\\system.diagnostics.contracts\\4.3.0\\system.diagnostics.contracts.4.3.0.nupkg.sha512",
